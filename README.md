@@ -1,9 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **mahemon/mahemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi, I'm Anwar 👋
+I am Md Anwar Hossen. Currently working as a Assistant Professor in the Department of Software Engineering at Daffodil International University. My research interest falls mainly into My research interests are in Computer Vision, Machine Learning, and Intelligent System Design.
+- 🎓 Graduated from Jagannath University
+- 👀 I’m Working on Computer Vision, Machine Learning
+- 🌱 I’m currently learning Intelligent System Design
+- 👯 I’m looking to collaborate on  Computer Vision, Machine Learning
+
+I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
