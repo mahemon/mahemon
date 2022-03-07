@@ -16,11 +16,11 @@
 
 
 ## Hi, I'm Anwar 👋
-I am Md Anwar Hossen. Currently working as a Assistant Professor in the Department of Software Engineering at Daffodil International University. My research interest falls mainly into My research interests are in Computer Vision, Machine Learning, and Intelligent System Design.
-- 🎓 Graduated from Jagannath University
-- 👀 I’m Working on Computer Vision, Machine Learning
-- 🌱 I’m currently learning Intelligent System Design
-- 👯 I’m looking to collaborate on  Computer Vision, Machine Learning
+I am Md Anwar Hossen. Currently Studying Graduate Program in the Department of Computer Science at Iowa State University. My research interest falls mainly into My research interests are in Federated Machine Learning and Distributed Systems.
+- 🎓 Graduate Student from Iowa State Univeristy
+- 👀 I’m Working on Federated Machine Learning and Distributed Systems.
+- 🌱 I’m currently learning Federated Machine Learning
+- 👯 I’m looking to collaborate on Federated Machine Learning
 
 I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
 
