@@ -3,7 +3,6 @@
 <!--
 **mahemon/mahemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,11 +15,10 @@
 
 
 ## Hi, I'm Anwar 👋
-I am Md Anwar Hossen. Currently Studying Graduate Program in the Department of Computer Science at Iowa State University. My research interest falls mainly into My research interests are in Federated Machine Learning and Distributed Systems.
-- 🎓 Graduate Student from Iowa State Univeristy
-- 👀 I’m Working on Federated Machine Learning and Distributed Systems.
-- 🌱 I’m currently learning Federated Machine Learning
-- 👯 I’m looking to collaborate on Federated Machine Learning
+I am Md Anwar Hossen. Currently Studying Graduate Program in the Department of Computer Science at Iowa State University. My research interest falls mainly into My research interests are Federated Machine Learning and DeepStream. 
+- 🎓 PhD Student, Dept of Computer Science, Iowa State Univeristy
+- 👀 I’m Working on Computational optimization on Federated Machine Learning.
+- 🌱 I’m currently DeepStream
 
 I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
 
