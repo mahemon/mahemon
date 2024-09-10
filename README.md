@@ -17,4 +17,6 @@
 ## Hi, I'm Anwar 👋
 I am Md Anwar Hossen. I am currently Studying Graduate Program in the Department of Computer Science at Iowa State University. My research interest is Data Quality and Differential Privacy in Hierarchical Federated Learning.
 
+Hi, it's Anwar, a Ph.D. student working in the Department of Computer Science at Iowa State University. Currently working in the Software Analytics and Pervasive Parallelism Lab under Dr. Ali Jannesari's co-supervision and in The Real-Time Analytics of Transportation Data lab under the co-supervision of Professor Anuj Sharma. My Ph.D. research topic is optimizing performance and communication in heterogeneous federated and decentralized learning systems. I am working on adapting and improving the capabilities of foundation models in federated learning systems.
+
 I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
