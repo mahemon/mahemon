@@ -15,6 +15,6 @@
 
 
 ## Hi, I'm Anwar 👋
-A Ph.D. student working in the Department of Computer Science at Iowa State University. Currently working in the Software Analytics and Pervasive Parallelism Lab under Dr. Ali Jannesari's co-supervision and in The Real-Time Analytics of Transportation Data lab under the co-supervision of Professor Anuj Sharma. My Ph.D. research topic is optimizing performance and communication in heterogeneous federated and decentralized learning systems. I am working on adapting and improving the capabilities of foundation models in federated learning systems.
+A Ph.D. student working in the Department of Computer Science at Iowa State University. Currently working in the Software Analytics and Pervasive Parallelism (SwAPP) Lab under Dr. Ali Jannesari's supervision. My research focuses on enhancing Federated Learning (FL) in heterogeneous environments. I aim to align heterogeneous models and improve global learning while ensuring client data privacy and consistent system performance.
 
 I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
