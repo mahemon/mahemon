@@ -15,6 +15,7 @@
 
 
 ## Hi, I'm Anwar 👋
-A Ph.D. student working in the Department of Computer Science at Iowa State University. Currently working in the Software Analytics and Pervasive Parallelism (SwAPP) Lab under Dr. Ali Jannesari's supervision. My research focuses on enhancing Federated Learning (FL) in heterogeneous environments. I aim to align heterogeneous models and improve global learning while ensuring client data privacy and consistent system performance.
+
+A Ph.D. student working in the Department of Computer Science at Iowa State University, supervised by Dr. Ali Jannesari in the SwAPP Lab. Specializing in federated continual learning, his research focuses on aligning and adapting knowledge representations across heterogeneous architectures to improve system scalability. He develops parameter-efficient methods to fine-tune and continually adapt large language models without sharing full models or overwriting prior knowledge. His work aims to build scalable, distributed AI systems by addressing challenges like semantic misalignment, domain shift, catastrophic forgetting, and communication constraints.
 
 I'm best reached via [email](https://mahemon.github.io/). I'm always open to interesting conversations and collaboration.
